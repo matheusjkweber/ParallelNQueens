@@ -1,0 +1,4 @@
+/home/matheus/Desktop/Desenvolvimento/clion-2017.2/bin/cmake/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/matheus/Desktop/Faculdade/IPPD/n-queens
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/matheus/Desktop/Faculdade/IPPD/n-queens/cmake-build-debug

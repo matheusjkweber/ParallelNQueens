@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/matheus/Desktop/Faculdade/IPPD/n-queens/main.cpp
+iostream
+-
+nQueens.h
+/home/matheus/Desktop/Faculdade/IPPD/n-queens/nQueens.h
+
+/home/matheus/Desktop/Faculdade/IPPD/n-queens/nQueens.cpp
+nQueens.h
+/home/matheus/Desktop/Faculdade/IPPD/n-queens/nQueens.h
+
+/home/matheus/Desktop/Faculdade/IPPD/n-queens/nQueens.h
+vector
+-
+iostream
+-
+thread
+-
+mutex
+-
+

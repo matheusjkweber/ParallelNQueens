@@ -1,0 +1,1 @@
+/usr/bin/c++   -std=c++11 -pthread -g   CMakeFiles/n_queens.dir/main.cpp.o CMakeFiles/n_queens.dir/nQueens.cpp.o  -o n_queens 
